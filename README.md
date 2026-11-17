@@ -15,7 +15,7 @@ python fotoapp.py
 
 La opción 1 va primero: abre la foto y la redimensiona para Youtube, Instagram, Twitter o Facebook. Después se puede ajustar el contraste, aplicar un filtro o ver los bordes.
 
-Usamos una foto distinta en cada punto:
+Las fotos de prueba están en la carpeta `imgs`. Usamos una distinta en cada punto:
 
 - Punto 1: baires.jpg
 - Punto 2: oscura.jpg (oscura) e img2.jpg (mucha luz)
