@@ -26,4 +26,4 @@ Las fotos nuevas quedan en la carpeta `fotos_mejoradas`.
 
 ## Diagrama del menú
 
-![Diagrama del menú](diagrama_main.png)
+![Diagrama del menu](Diagrama%20drawio.png)
